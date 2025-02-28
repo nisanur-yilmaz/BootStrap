@@ -1,0 +1,86 @@
+body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    height: 100%;
+    width: 100%;
+
+}
+
+.bg-white {
+    background-color: #f6f4ed;
+
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(41, 41, 41, 1)
+}
+
+
+.bg-dark {
+    background: black;
+    border-color: rgba(25, 25, 25, 1);
+    border-radius: 99em;
+    font-size: 20px;
+    color: white;
+    height: 47px;
+
+}
+
+.bt-dark {
+    border-radius: 40px;
+    font-size: 14px;
+
+}
+
+.img {
+    margin-left: 250px;
+
+
+}
+
+h2 {
+    font-size: 120px;
+    line-height: 100px;
+
+}
+
+.h21 {
+    font-size: 70px;
+}
+
+.y img {
+    display: block;
+    margin-bottom: 0; /* Resmin altındaki boşluğu kaldır */
+}
+
+footer {
+    margin-top: 0; /* Üst boşluğu kaldırarak resme yapıştır */
+    padding: 10px 0;
+
+}
+.text1
+{
+    color: #6c6c6c;
+}
+.text1:hover
+{
+    color: white;
+    text-decoration: none;
+}
+.text2
+{
+    color: white;
+}
+.text2:hover
+{
+    color: #6c6c6c;
+    text-decoration: none;
+}
+.fs3
+{
+    font-size: 30px;
+}
+
+
+
+
+
